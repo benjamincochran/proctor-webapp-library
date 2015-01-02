@@ -15,3 +15,5 @@ _cache
 /classes
 /target
 /*.iml
+/.classpath
+/.project
